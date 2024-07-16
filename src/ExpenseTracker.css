@@ -1,0 +1,42 @@
+.container{
+    text-align: center;
+
+    background-color: antiquewhite;
+    align-items: center;
+    margin-top: 200px;
+    padding: 50px;
+    margin: 100px 450px 100px 450px;
+}
+
+
+
+.input-1{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+}
+.input-2{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+
+}
+
+
+.btn{
+    margin: 20px;
+    height: 30px;
+    width: 120px;
+    border-radius: 50px;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    background-color: rgb(154, 154, 213);
+}
+
+.expense-list{
+    list-style: none;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+
